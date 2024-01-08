@@ -7,8 +7,6 @@ This can be completed further. You can make changes if you want and create a pul
 
 ## How to run the program:
 
-Open the project folder in the terminal in Visual Studio code or terminal and run the following command.
-
 First, install the required modules for the following react application to run by running the command:
 
 ```console
