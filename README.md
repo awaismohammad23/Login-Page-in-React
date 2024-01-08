@@ -9,6 +9,16 @@ This can be completed further. You can make changes if you want and create a pul
 
 Open the project folder in the terminal in Visual Studio code or terminal and run the following command.
 
+First, install the required modules for the following react application to run by running the command:
+
+```console
+   npm i
+```
+It will install all the necessary modules required to run your project.
+
+
+### Now to run the project run the following command in the terminal:
+
 ```console
    npm start
 ```
