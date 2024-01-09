@@ -20,12 +20,13 @@ export const LoginSignup = () => {
             </div>
 
             <div className='inputs'>
-                {action==="Login"?<div></div>: <div className='input'>
-                
-                <img src={user_icon} alt='user icon' />
-                <input type='text' placeholder='Username' />
-                </div>
-            }
+                {action==="Login"?<div></div>: 
+                    
+                    <div className='input'>
+                        <img src={user_icon} alt='user icon' />
+                        <input type='text' placeholder='Username' />
+                    </div>
+                }
            
 
             <div className='input'>
